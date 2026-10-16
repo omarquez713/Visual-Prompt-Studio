@@ -1,0 +1,5 @@
+Assignment: Studio Prompt Studio 1.1
+
+Text Prompt: A futuristic city on top of a pirate ship where the citizens are robots. Moving along the current of the ocean at 40 mph. With a magnificent view, making it impossible to look away. With a sky that is blue, with clouds that make it 100k like a calm and relaxing day. The ship is dark, with colors blacks and browns. Make the ship weigh a lot by creating texture in the water and in the ship. With the contrast between the ship and the city on the ship.
+
+The Studio Glossary: Line: The vertical skyscrapers, horizontal decks, and diagonal ropes create movement and guide the viewer's eyes. Shape: Rectangles, triangles, and circles appear in the buildings, sails, and flying vehicles. The skull-shaped figurehead stands out. Texture: The rough wood, ropes, and chains contrast with the smooth buildings, shiny robots, and ocean waves. Volume: Shading and shadows make the ship, buildings, and robots look three-dimensional and realistic. Contrast: The dark ship contrasts with the bright blue sky, ocean, and glowing lights, highlighting the difference between old pirate style and futuristic technology.
